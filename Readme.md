@@ -2,9 +2,9 @@
 ## Pràctica 03
 ---
 ### Membres del grup:
-| Número         | Nom              | Població        |
-| :-----------   | :--------------: | :------         |
-| 1              | Raül Valls       | Xàtiva          |
+| Número         | Nom              | Població        | Imatge   |
+| :-----------   | :--------------: | :------         |:--------:|
+| 1              | Raül Valls       | Xàtiva          |![raül](./img/raul.jpg)|
 ---
 ### Descripció del projecte:
 - Treballar en equip.
